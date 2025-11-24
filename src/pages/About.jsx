@@ -17,7 +17,7 @@ const About = () => {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
         >
-          I’m <span className="font-semibold text-blue-600 dark:text-blue-400">Ahmad</span>,  
+          I’m <span className="font-semibold text-blue-600 dark:text-blue-400">Dolapo</span>,  
           a cybersecurity enthusiast with experience in secure web development, vulnerability assessment, and security automation. I enjoy learning new tools, sharing knowledge, and turning complex security problems into simple, practical solutions.
 
         </motion.p>

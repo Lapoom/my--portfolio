@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import SectionHeader from "../components/SectionHeader";
 import { Link } from "react-router-dom";
-import avatar from "../assets/avatar.jpg";
+import avatar from "../assets/papa3.jpeg";
 
 const Home = () => {
   return (

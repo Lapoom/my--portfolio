@@ -1,6 +1,6 @@
 import passwordStrengthChecker from "../assets/passwordstrenghtchecker.png";
 import cybersecuritydashboard from "../assets/cybersecuritydashboard.png";
-import portfolioimage1 from "../assets/portfolioimage1.png";
+import portfolioimage1 from "../assets/homepage.png";
 import ipchecker from "../assets/ipchecker.png";
 
 const projects = [
@@ -11,8 +11,8 @@ const projects = [
     description:
       "A cybersecurity Portfolio Built with React, Vite, and Tailwind CSS for responsive design.",
     tech: ["React", "Tailwind CSS", "Vite"],
-    link: "https://my-portfolio-three-azure-95.vercel.app",
-    github: "https://github.com/Oniye-cloud/my-portfolio.git",
+    link: "https://my-portfolio-16at.vercel.app/",
+    github: "https://github.com/Lapoom/my--portfolio.git",
   },
   {
     id: 2,
@@ -21,8 +21,8 @@ const projects = [
     description:
       "A Password Strenght Checker System. Built with React, Vite, and Firestore for real-time updates.",
     tech: ["React", "Tailwind CSS", "Vite"],
-    link: "https://passwor-strenght-checker.vercel.app",
-    github: "https://github.com/Oniye-cloud/passwor-strenght-checker.git",
+    link: "https://passwrd-strenght-checker.vercel.app/",
+    github: "https://github.com/Lapoom/Passwrd-Strenght-Checker.git",
   },
   {
     id: 3,
@@ -31,8 +31,8 @@ const projects = [
     description:
       "An IP Checker tool that allows users to look up information about an IP address, including its location, ISP, and other relevant details.",
     tech: ["HTML", "PYTHON", "CSS"],
-    link: "https://ip-checker-a2pw.vercel.app/", //change this to urs
-    github: "https://github.com/Oniye-cloud/ip-info-finder.git",
+    link: "https://ip-checker-smoky-six.vercel.app/", //change this to urs
+    github: "https://github.com/Lapoom/IP--Checker.git",                                    
   },
   {
     id: 4,
@@ -41,8 +41,8 @@ const projects = [
     description:
       "A Cybersecurity Dashboard that list some tools used in cybersecurity with details.",
     tech: ["React", "Vite", "Tailwind CSS", "Lucide Icons"],
-    link: "https://ip-checker-a2pw.vercel.app/", //change this to urs
-    github: "",
+    link: "https://cybersecurity-dashboard-vert.vercel.app/", //change this to urs
+    github: "https://github.com/Lapoom/Cybersecurity-Dashboard.git",
   }
 ];
 
