@@ -51,7 +51,7 @@ const ProjectDetails = () => {
           </a>
         )}
 
-        <Link>
+        <Link
           to="/projects"
           className="block mt-6 text-blue-600 dark:text-blue-400 hover:underline"
         >
