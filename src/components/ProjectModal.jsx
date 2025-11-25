@@ -61,9 +61,9 @@ const ProjectModal = ({ project, onClose }) => {
             </a>
           )}
 
-          {project.link && (
+          {project.github && (
             <a
-              href={project.link}
+              href={project.github}
               target="_blank"
               rel="noopener noreferrer"
               className="mt-5 inline-block text-amber-50 text-center bg-orange-900 hover:bg-blue-400 hover:text-black font-medium px-4 py-2 rounded-md"
